@@ -1,20 +1,21 @@
 <header class="flex">
+{{$currentPage := .}}
 
 {{ if .IsHome }}
 	<h1>{{site.Title}}</h1>
 	{{ else }}
 	<!--Title-->
-	{{with .Title}}
+	<!-- {{with .Title}} -->
 	<heading>
 		<h1>{{.}}
 			<small>
-			    <span class="date">May 14, 2022</span>
+				{{dateFormat "Jan 2, 2006" $currentPage.Date}}
 			    on
 			    <span class="site"><a href='{{relLangURL ""}}'>{{site.Title}}</a></span>
 		  </small>
 	  </h1>
 	</heading>
-	{{end}}
+	<!-- {{end}} -->
 {{ end }}
 
 
