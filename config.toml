@@ -1,0 +1,4 @@
+baseURL = 'http://kristiankyvik.com/'
+languageCode = 'en-us'
+title = "Kristian Kyvik's blog"
+theme = "sk2"
