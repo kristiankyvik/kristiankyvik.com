@@ -1,0 +1,21 @@
+<footer class="flex">
+
+	{{if site.Copyright}}
+		<div class="pad-r-5px">{{site.Copyright}}</div>
+	{{else}}
+		<div class="pad-r-5px">
+		©
+		{{with site.Params.startdate}}
+			{{dateFormat "2006" .}}-
+		{{- end}}
+		{{- now.Format "2006"}} {{site.Title}};
+		</div>
+	{{end}}
+	all rights reserved.
+
+</footer>
+
+<!--js-->
+{{with site.Menus.main}}
+<script src="{{relLangURL ""}}js/sk2.js"></script>
+{{end}}

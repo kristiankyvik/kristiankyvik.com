@@ -1,0 +1,44 @@
+{{define "main"}}
+<div class="main">
+
+	<!--_index.md-->
+	{{if not .IsHome}}
+	{{with .Title}}
+	<div>
+		<heading>{{.}}</heading>
+	</div>
+	{{end}}
+	{{with .Content}}
+	<div>
+		<article>{{.}}</article>
+	</div>
+	{{end}}
+	{{end}}
+
+	<!--$paginator-->
+	{{$p := .Pages}}
+	{{if .IsHome}}
+	{{$p = where site.RegularPages "Type" "in" site.Params.mainSections}}
+	{{else if eq .Kind "taxonomy"}}
+	{{$p = $p.ByTitle}}
+	{{end}}
+	{{$paginator := .Paginate $p}}
+
+	<!--pagination-->
+	{{template "_internal/pagination.html" .}}
+
+	<!--list-->
+	<section class="article-list">
+		{{range $paginator.Pages}}
+		  <div class="article">
+			  {{with .Lastmod}}<span class="date">{{dateFormat "Jan 2, 2006" .}}</span>{{end}}
+			  {{if site.Params.summary}}<div>{{.Summary}}</div>{{end}}
+			  <a href="{{.RelPermalink}}">{{.Title}}</a>
+		</div>
+		
+	
+		{{end}}
+	</section>
+
+</div>
+{{end}}
