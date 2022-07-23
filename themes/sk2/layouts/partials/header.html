@@ -7,7 +7,18 @@
 	<heading>
 		<h1>{{.Title}}
 			<small>
-				{{dateFormat "Jan 2, 2006" $currentPage.Date}}
+				{{- $pubdate := .PublishDate.Format "Jan 2, 2006" }}
+				<span class="date">
+				    {{ $pubdate }}
+
+				<!-- Last Updated Date -->
+				{{- if .Lastmod }}
+				    {{- $lastmod := .Lastmod.Format "Jan 2, 2006" }}
+				    {{- if ne $lastmod $pubdate }}
+				            (Updated: {{ $lastmod }})
+				    {{- end }}
+				{{- end }}
+				</span>
 			    on
 			    <span class="site"><a href='{{relLangURL ""}}'>{{site.Title}}</a></span>
 		  </small>
