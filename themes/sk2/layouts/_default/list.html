@@ -31,14 +31,21 @@
 	<section class="article-list">
 		{{range $paginator.Pages}}
 		  <div class="article">
-			  {{with .Lastmod}}<span class="date">{{dateFormat "Jan 2, 2006" .}}</span>{{end}}
-			  {{if site.Params.summary}}<div>{{.Summary}}</div>{{end}}
+			  {{- $pubdate := .PublishDate.Format "Jan 2, 2006" }}
+			  <span class="date">
+			      {{ $pubdate }}
+
+			  <!-- Last Updated Date -->
+			  {{- if .Lastmod }}
+			      {{- $lastmod := .Lastmod.Format "Jan 2, 2006" }}
+			      {{- if ne $lastmod $pubdate }}
+			              (Updated: {{ $lastmod }})
+			      {{- end }}
+			  {{- end }}
+			  </span>
 			  <a href="{{.RelPermalink}}">{{.Title}}</a>
 		</div>
-		
-	
 		{{end}}
 	</section>
-
 </div>
 {{end}}

@@ -4,10 +4,8 @@
 {{ if .IsHome }}
 	<h1>{{site.Title}}</h1>
 	{{ else }}
-	<!--Title-->
-	<!-- {{with .Title}} -->
 	<heading>
-		<h1>{{.}}
+		<h1>{{.Title}}
 			<small>
 				{{dateFormat "Jan 2, 2006" $currentPage.Date}}
 			    on
@@ -15,8 +13,7 @@
 		  </small>
 	  </h1>
 	</heading>
-	<!-- {{end}} -->
-{{ end }}
+{{end}}
 
 
 {{with site.Params.subtitle}}<div class="subtitle">{{.}}</div>{{end}}
