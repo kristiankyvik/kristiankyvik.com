@@ -5,7 +5,7 @@ lastmod: 2022-07-26T21:41:21+02:00
 draft: false
 ---
 
-I decided to read a bunch of "advice" threads from hacker news. Here is a summary of what I found:
+I decided to read a bunch of "advice" threads from hacker news which I summarized below:
 
 - Do regular blood tests / healthchecks
 - Eat less
