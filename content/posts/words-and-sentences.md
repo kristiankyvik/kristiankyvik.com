@@ -30,5 +30,5 @@ tags: [
 - this [] vastly underestimates the role of []
 - rapidly evolving
 - ex post vs ex ante
-- idndicia
+- indicia
 - vignette
