@@ -5,9 +5,6 @@ draft: false
 tags: ["list"]
 ---
 
-
-[[hn-life-advice]]
-
 - run from an ivory tower
 - well adjusted
 - gambit
