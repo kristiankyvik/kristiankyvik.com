@@ -5,6 +5,9 @@ draft: false
 tags: ["list"]
 ---
 
+
+[[hn-life-advice]]
+
 - run from an ivory tower
 - well adjusted
 - gambit
@@ -29,4 +32,4 @@ tags: ["list"]
 - rapidly evolving
 - ex post vs ex ante
 - indicia
-- vignette
+- vignettess
