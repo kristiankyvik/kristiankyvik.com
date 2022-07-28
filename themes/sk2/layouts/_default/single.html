@@ -1,5 +1,7 @@
 {{define "main"}}
 <div class="main">
+	{{ partial "content-with-wikilinks" . }}
+
 
 	<!--TOC-->
 	{{if .Site.Params.toc}}
