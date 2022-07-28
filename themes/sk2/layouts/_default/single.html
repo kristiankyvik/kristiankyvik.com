@@ -1,7 +1,5 @@
 {{define "main"}}
 <div class="main">
-	{{ partial "content-with-wikilinks" . }}
-
 
 	<!--TOC-->
 	{{if .Site.Params.toc}}
@@ -12,7 +10,7 @@
 	{{end}}
 
 	<!--Content-->
-	{{with .Content}}<article>{{.}}</article>{{end}}
+	{{with .Content}}<article>{{ partial "content-with-wikilinks" . }}</article>{{end}}
 	
 	<!--Tag-->
 <!-- 	<div class="flex">
