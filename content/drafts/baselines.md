@@ -1,7 +1,7 @@
 ---
 title: "Facts and figures I find useful"
 date: 2022-07-24T14:55:43+02:00
-draft: true
+draft: false
 ---      
 
 I use this page to collect reference figures on a number of metrics I find useful. I try to keep this page up to date, but some of these change very often so there are likely inconsistencies  
