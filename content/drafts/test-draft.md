@@ -5,3 +5,6 @@ draft: false
 ---      
 
 Test draft
+
+hn-life-advice.md 
+[[hn-life-advice]]
