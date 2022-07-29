@@ -21,13 +21,13 @@
 	</div> -->
 
 	<!--Prev/Next-->
-	{{if or .PrevInSection .NextInSection}}
+<!-- 	{{if or .PrevInSection .NextInSection}}
 	<div class="flex">
 		{{with .PrevInSection}}<a href="{{.RelPermalink}}">
 			<< {{.Title}}</a> {{end}}
 				{{with .NextInSection}}<a class="flex-right" href="{{.RelPermalink}}">{{.Title}} >></a>{{end}}
 	</div>
-	{{end}}
+	{{end}} -->
 
 	<!--Related-->
 	{{$related := site.RegularPages.Related . | first 5}}
