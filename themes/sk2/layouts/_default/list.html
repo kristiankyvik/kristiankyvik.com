@@ -18,7 +18,7 @@
 	<!--$paginator-->
 	{{$p := .Pages}}
 	{{if .IsHome}}
-	{{$p = where site.RegularPages "Type" "in" site.Params.mainSections}}
+	{{$p = where site.RegularPages "Type" "posts"}}
 	{{else if eq .Kind "taxonomy"}}
 	{{$p = $p.ByTitle}}
 	{{end}}
