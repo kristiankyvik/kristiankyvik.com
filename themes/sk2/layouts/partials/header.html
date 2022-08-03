@@ -3,6 +3,8 @@
 
 {{ if .IsHome }}
 	<h1>{{site.Title}}</h1>
+	{{ else if .IsSection}}
+	<h1>{{.Title}}</h1>
 	{{ else }}
 	<heading>
 		<h1>{{.Title}}

@@ -3,11 +3,11 @@
 
 	<!--_index.md-->
 	{{if not .IsHome}}
-	{{with .Title}}
+<!-- 	{{with .Title}}
 	<div>
 		<heading>{{.}}</heading>
 	</div>
-	{{end}}
+	{{end}} -->
 	{{with .Content}}
 	<div>
 		<article>{{.}}</article>
@@ -23,9 +23,6 @@
 	{{$p = $p.ByTitle}}
 	{{end}}
 	{{$paginator := .Paginate $p}}
-
-	<!--pagination-->
-	{{template "_internal/pagination.html" .}}
 
 	<!--list-->
 	<section class="article-list">
@@ -47,5 +44,8 @@
 		</div>
 		{{end}}
 	</section>
+
+	<!--pagination-->
+	{{template "_internal/pagination.html" .}}
 </div>
 {{end}}
