@@ -1,7 +1,7 @@
 ---
 title: "Deciding based on principles"
 date: 2022-08-19T22:55:29+02:00
-draft: false
+draft: true
 ---
 
 - Type 1 and Type 2 decisions

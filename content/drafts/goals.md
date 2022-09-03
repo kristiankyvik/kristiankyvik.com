@@ -1,3 +1,9 @@
+---
+title: "Goals"
+date: 2022-08-01T11:39:31+02:00
+draft: true
+---
+
 # Goals
 ## I act based on my principles
 - KR: # of decisions taken based on principles.md

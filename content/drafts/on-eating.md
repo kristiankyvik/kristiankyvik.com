@@ -1,7 +1,7 @@
 ---
 title: "On eating"
 date: 2022-08-19T21:52:43+02:00
-draft: false
+draft: true
 ---
 
 - Replace stress eating with other activity e.g. making mint tea or 10x push-ups

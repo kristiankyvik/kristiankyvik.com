@@ -1,7 +1,7 @@
 ---
 title: "Usefull tricks for better thinking"
 date: 2022-08-19T19:50:34+02:00
-draft: false
+draft: true
 ---
 
 - Write it down

@@ -1,7 +1,7 @@
 ---
 title: "I stole my bike back"
 date: 2022-08-01T11:39:31+02:00
-draft: false
+draft: true
 ---
 
 I got my bike stolen but managed to steal it back. This is how it happened.
