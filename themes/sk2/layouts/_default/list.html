@@ -26,6 +26,9 @@
 
 	<!--list-->
 	<section class="article-list">
+		<div id="post-content">
+		{{ .Content }}
+		</div>
 		{{range $paginator.Pages}}
 		  <div class="article">
 			  {{- $pubdate := .PublishDate.Format "Jan 2, 2006" }}
