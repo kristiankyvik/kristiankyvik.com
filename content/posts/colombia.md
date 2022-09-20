@@ -55,7 +55,15 @@ draft: false
 
 **Medellin and surroundings**
 
-- Check out the city of Medellin (J Balvin's hometown) and the surrounding villages of Antioquía. 
+- Medellin and Antioquia: a traditional yet prosperous region home of the Paisas. Also J Balvin's hometown.
+
+- Museo Antioquia: if you are into curves and art this is the place to check Botero. It is located in Plaza Botero.
+
+- Comuna 13: used to be a no-go place during the times of Pablo Escobar, now it has undergone such a massive cultural transformation that it worth paying a visit.
+
+- El Poblado and Parque Lleras: nice upscale area of the city with lot of bars to hang out and restaurants. Stay in sites Hotel for a nice pool with views of the city.
+
+- Pueblito Paisa: up in a small hill this *pueblito* imitates the typical towns of Antioquia and its idiosincracy with a strong Basque heritage
 
 **Amazonas**
 
@@ -63,7 +71,7 @@ draft: false
 
 **Los Llanos**
 
-Check out Villa Vicencio and visit Caño de Crystals.
+- Check out Villa Vicencio and visit Caño de Crystals.
 
 **Cali**
 
@@ -75,4 +83,7 @@ Check out Villa Vicencio and visit Caño de Crystals.
 
 **Santander**
 
-- Visit Barichara. 
+- Visit Barichara.
+
+
+Thanks to Jaime for many of the suggestions!
