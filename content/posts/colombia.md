@@ -6,15 +6,15 @@ draft: false
 
 **Bogota**
 
-- Climb up to Montserrate and admire the gloomy landscape of a massive city as it is Bogota.
+- Climb up to Montserrate and admire the gloomy landscape of a massive city.
 
-- City center ( La Candelaria): Discover where everything began at the capital of the old Nueva Granada Kingdom. During your walk go to Plaza Bolivar, Chorro de quevedo,  Museo del Oro and la Puerta Falsa for the best *ajiaco* in town.
+- City center (La Candelaria): Discover where everything began at the capital of the old Nueva Granada Kingdom. During your walk go to Plaza Bolivar, Chorro de quevedo,  Museo del Oro and la Puerta Falsa for the best *ajiaco* in town.
 
 - Gold Museum: the *Museo del Oro* is one of its kind, admire all the gold pieces will help you to understand the legend of El Dorado as well the aboriginal prehispanic cultured such as the Muisca, Tayrona or Pijao.
 
 - Take a graffity tour: its worth it due to all the artistic painting all around the city
 
-- Enjoy nightlife like a Rolo (bogotano): there is no place like Bogota to party like Andres Carne de Res
+- Enjoy nightlife like a Rolo (*bogotano*): there is no place like Bogota to party like Andres Carne de Res (the one in Chia is better than the one in Bogotá centre).
 
 **Near Bogota:**
 
@@ -22,7 +22,7 @@ draft: false
 
 **Zona Cafetera**
 
-- Valle del Cocora is a must in Colombia. Also nice to visit peculiar towns like Salento and Filandia. For good logistics I recommend to stay in La Tebaida area near Armenia
+- Valle del Cocora is a must in Colombia. Also nice to visit peculiar towns like Salento and Filandia. For good logistics I recommend to stay in La Tebaida area near Armenia.
 
 **Cartagena de Indias**
 
