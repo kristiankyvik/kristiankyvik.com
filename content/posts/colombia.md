@@ -65,6 +65,10 @@ draft: false
 
 - Pueblito Paisa: up in a small hill this *pueblito* imitates the typical towns of Antioquia and its idiosincracy with a strong Basque heritage
 
+- Parque de los Pies Descalzos: a nice park that shows the enormous transformation of the city and its no to violence and yes to open areas. You can reach with the metro.
+
+- If you are into Nature Cerro Nutibara and Jardin Botanico are worth a try.
+
 **Amazonas**
 
 - Villa Vicencio: the city you will most likely visit if you want to go to the Amazonas.

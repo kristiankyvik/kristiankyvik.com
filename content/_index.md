@@ -5,4 +5,4 @@ draft: false
 layout: single
 ---
 
-This is an experiment in hypertext internet. 
+An experiment in hypertext. 
