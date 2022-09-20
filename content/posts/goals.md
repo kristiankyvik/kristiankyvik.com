@@ -5,19 +5,19 @@ draft: true
 ---
 ## Health & Fitness
 - ==KR: days with intermittent fasting (5-6/7 days a week)==
-	- Track: Manual
+	- Track: Manual in Beeminder
 - ==KR: # of km run per week (20km/w)==
-	- Track: Strava
+	- Track: Strava in Beeminder
 ## Cognition matters
 - ==KR: # of minutes meditated==
-	- Track: maybe general time tracker (IFTTT)
+	- Track: Toggl in Beeminder
 - KR: screen time across devices
 	- Track: Check out Rescue time (or alternatives)
 - KR: # of words written on site (drafts and posts)
 	- Track: URLminder for entire site?
 ## Other
 - KR: # days with leg-eks
-	- Track: Manual
+	- Track: manual in Beeminder
 - KR: $ made besides employer salary
 	-Track: Manual
 - One must-do-tasks
