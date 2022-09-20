@@ -4,16 +4,24 @@ date: 2022-08-19T23:42:15+02:00
 draft: false
 ---
 
+A collection of tips for people visiting Colombia. [^1]
+
+[^1]: Thanks Jaime for all the suggestions!
+
 **Bogota**
 
-- Climb up to Montserrate and admire the gloomy landscape of a massive city.
+- Climb up to Montserrate and admire the gloomy landscape of this massive urban jungle.
 
-- City center (La Candelaria): Discover where everything began at the capital of the old Nueva Granada Kingdom. During your walk go to Plaza Bolivar, Chorro de quevedo,  Museo del Oro and la Puerta Falsa for the best *ajiaco* in town.
+- City centre (La Candelaria): Discover where everything began at the capital of the old Nueva Granada Kingdom. During your walk go to Plaza Bolivar, Chorro de quevedo,  Museo del Oro and la Puerta Falsa for the best *ajiaco* in town.
 
 - Gold Museum: the *Museo del Oro* is one of its kind, admire all the gold pieces will help you to understand the legend of El Dorado as well the aboriginal prehispanic cultured such as the Muisca, Tayrona or Pijao.
 
-- Take a graffity tour: its worth it due to all the artistic painting all around the city
+- Take a graffiti tour: its worth it due to all the artistic painting all around the city.
 
+- Zona G: neighbourhood where you will find English houses following the Tudor style in the Chapinero area.
+
+- Leo Cocina y Cava: A michelin restaurant from the best Latin American chef Leonor Espinoza.
+ 
 - Enjoy nightlife like a Rolo (*bogotano*): there is no place like Bogota to party like Andres Carne de Res (the one in Chia is better than the one in Bogotá centre).
 
 **Near Bogota:**
@@ -40,9 +48,15 @@ draft: false
 
 **Santa Marta**
 
-- Minca: natural area in Sierra Nevada de Santa Marta
+- In Santa Marta if you want to stay not far from the city I recommend Bello Horizonte beach in a hotel like Marriot Playa Dormida.
 
-- Tayrona Park
+- Minca: natural area in Sierra Nevada de Santa Marta.
+
+- Tayrona: A sacred place for the indigenous tribe at La Sierra: the Koguis. It is one of Colombia most famous beaches as well landscape. Depending on the day and the wind I would not advise to swim due to the waves. To arrive you might have to take a ling walk or hire a donkey.
+
+- Ciudad Perdida: if you are into trekking going to the lost city or colombian Machu Pichu is a very cool experience. With a 4 day journey you will walk passing through indigenous and rural areas before finding the jungle and finally this lost city that was discovered few decades ago. With a cost of 300 euros it includes meal, transportation and accommodation. There is many agencies from Santa Marta running this trip.
+
+- Check out Tagagnga if you are into them hippy vibes.
 
 **Barranquilla**: 
 
@@ -51,7 +65,10 @@ draft: false
 **La Guajira**
 
 -  If you have time after Santa Marta La Guajira is a remote yet beautiful area home of the Wayuu Culture.
+
 -  While in La Guajira you can go to Punta Gallinas for a nice Kite surf session.
+
+- Check out Palomino if you are into them hippy vibes.
 
 **Medellin and surroundings**
 
@@ -69,25 +86,50 @@ draft: false
 
 - If you are into Nature Cerro Nutibara and Jardin Botanico are worth a try.
 
+- Pablo Escobar Grave and the Narco Tour: if you were a Narcos fan you might be interested even though Colombians dislike this type of tourism. During the tour you can meet Osito, Pablo brother and former accountant of the Medellin Cartel.
+
+- Guatapé El Peñol: it is a rock in the peculiar town of Guatapé with very beautiful views.
+
+- Also some nice towns in Antioquia would be Jardin and Santa Fe de Antioquía.
+
 **Amazonas**
 
-- Villa Vicencio: the city you will most likely visit if you want to go to the Amazonas.
+- You need to go to Leticia with place there you will find many different creatures and species as well as having the chance of crossing by foot both Peru and Brazil since they are all located in the Triángulo Amazónico.
 
 **Los Llanos**
 
-- Check out Villa Vicencio and visit Caño de Crystals.
+- Check out Caño Cristales y Villa de Vicencio and enjoy a Joropó session and eat Ternera a la Llanera (delicious!).
 
 **Cali**
 
-- Visit if salsa is your thing.
+- Take Salsa Classes: you can have cheap classes and attend many different bars like La Topa Tolondra.
+
+- Walk around the city center with spots like Iglesia la Hermita, San Antonio area or Plaza de San Francisco.
+
+**Chocó**
+
+- This underdeveloped and rainy yet very biodiverse area is a trendy gem of the country. If you are into rainy beaches and surf this is your place. Check Bahia Solano for surfing as well for whale watching.
 
 **Boyacá**
 
-- Region close to Bogotá. Visit Villa de Leyva and Paipa.
+- Not far from Bogota (considering Latin American roads) it is a region hone of the battle of the independence agains the spaniards as well as being considered a place of traditions.
+
+- Villa de Leyva: probably one of the most beautiful towns in the country a white village perfect for quad excursions or horse back riding.
+
+- Small towns of Raquirá, Mongui for handcrafts and Laguna de Tota to have a good trout.
 
 **Santander**
 
-- Visit Barichara.
+- A proud region next to Boyacá with sweet spots like San Gil, Barichará and Cañon del Chicamocha. If you are not afraid you might want to try the *hormigas culonas*.
 
+**Other (for hardcore adventurers)**
 
-Thanks to Jaime for many of the suggestions!
+- Malpelo for diving with sharks.
+
+- Guainia: a hidden gem hard to find in the middle of nowhere. The highlight is Cerros de Mavecure.
+
+- Cauca: the most diverse region of Colombia with a high amount of indigenous tribes like the Guambiano, afrocolombian areas like Timbiqui. Also pay a visit to the colonial city of Popayán.
+
+- San Agustín and Tierradentro: Unesco heritage. Enough said.
+
+- Capurganá and Sapzurro: the best beaches of Colombia hidden in the border with Panamá.
