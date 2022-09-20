@@ -5,8 +5,4 @@ draft: false
 layout: single
 ---
 
-This is an experiment in hypertext internet. To visits the posts I have written go to [posts](/posts). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-
-[[hn-life-advice]] and this is connected.
-
-[[hn-life-advice|is the best]] can be
+This is an experiment in hypertext internet. 
