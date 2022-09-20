@@ -1,7 +1,7 @@
 ---
 title: "On worklife balance"
 date: 2022-08-19T21:16:43+02:00
-draft: false
+draft: true
 ---
 
 - No work on Sundays. Use your Monday as a thinking & planning day instead.
