@@ -6,7 +6,7 @@ draft: false
 
 A collection of tips for people visiting Colombia. [^1]
 
-[^1]: Thanks Jaime for all the suggestions!
+[^1]: Thanks Jaime and Nicholás for all the suggestions!
 
 **Bogota**
 
@@ -24,13 +24,19 @@ A collection of tips for people visiting Colombia. [^1]
  
 - Enjoy nightlife like a Rolo (*bogotano*): there is no place like Bogota to party like Andres Carne de Res (the one in Chia is better than the one in Bogotá centre).
 
+- Check out Theatrón (nightclub).
+
+- And also, for book lovers, Merlin is a must go.
+
 **Near Bogota:**
 
 - Catedral de Zipaquirá and the Paramos like the one in Sumapaz if you are into nature are worth it.
 
-**Zona Cafetera**
+**Eje Cafetera**
 
 - Valle del Cocora is a must in Colombia. Also nice to visit peculiar towns like Salento and Filandia. For good logistics I recommend to stay in La Tebaida area near Armenia.
+
+- Un tour en una finca tradicional cafetera. Yo estuve en la de Manolo. Hay cata de café y es súper interesante.
 
 **Cartagena de Indias**
 
@@ -45,6 +51,10 @@ A collection of tips for people visiting Colombia. [^1]
 - Beaches: Bocagrande is not worth and Baru even though the water is blue and pristine there is too many vendors do don't recommend. What is worth it is Islas del Rosario where you can take a boat tour for a day
 
 - While in Cartagena I recommend to try special dishes from the caribbean  like *Arepa de huevo*, *pargo rojo* or *Cazuela de Mariscos*.
+
+**San Andrés**
+
+- San Andres y Providencia: islands located in the Caribbean with a creole flavour. San Andres is the main one being a famous destination for Colombians. Enjoy Mar de los siete colores and Cañon de Morgan. Providencia is the smallest one but also the less touristic and most beautiful of the two. You can reach it with a small plane leaving from San Andrés.
 
 **Santa Marta**
 
@@ -98,7 +108,7 @@ A collection of tips for people visiting Colombia. [^1]
 
 **Los Llanos**
 
-- Check out Caño Cristales y Villa de Vicencio and enjoy a Joropó session and eat Ternera a la Llanera (delicious!).
+- Check out Caño Cristales y Villavicencio and enjoy a Joropó session and eat Ternera a la Llanera (delicious!).
 
 **Cali**
 
@@ -109,6 +119,8 @@ A collection of tips for people visiting Colombia. [^1]
 **Chocó**
 
 - This underdeveloped and rainy yet very biodiverse area is a trendy gem of the country. If you are into rainy beaches and surf this is your place. Check Bahia Solano for surfing as well for whale watching.
+
+- Chocó & Nuquí, to watch whales and manglares.
 
 **Boyacá**
 
@@ -133,3 +145,13 @@ A collection of tips for people visiting Colombia. [^1]
 - San Agustín and Tierradentro: Unesco heritage. Enough said.
 
 - Capurganá and Sapzurro: the best beaches of Colombia hidden in the border with Panamá.
+
+- Nevado Cocuy for trekking/mountaineering.
+
+- Tatacoa desert, amazing to watch there the stars in the Huila region.
+
+- Santa Cruz de Mompox: time has not changed the town that used to be important during the colonial heritage. A unesco heritage since 1995 wandering around the city you can feel the famous " realismo mágico". Be aware of the humidity and heat.
+
+- Serrania del Chirobiquete: not easy to arrive, it is the largest national park of the country with many interesting pictographs.
+
+
