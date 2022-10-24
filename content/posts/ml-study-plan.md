@@ -30,4 +30,4 @@ draft: true
 	-  Thoughts Patrick
 		-  Coders that do not understand how hard it is to use?
 		-  How to find tools to use?
-		-  How others companies with complex 
+		-  How others companies with complex [[]]
