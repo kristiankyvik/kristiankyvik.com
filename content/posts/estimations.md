@@ -47,6 +47,8 @@ Personal guide to get a general sense of numbers and sizes.
 - Tesla / 53 billion / 27% / 10,000 / 828 billion
 - Affirm / 0.870 billion / -77% / 2,071 / 5 billion
 - Duolingo / 0.24 billion / -23% / 500 / 2.5 billion
+- Google / 256 billion / 26% / 150k / 1.4 trillion
+- Otovo / 60 million / ?% / ? / ?
 
 ## General sense of product / tech metrics 
 - Amazon S3 Standard cost: $0.023 / GB / month
