@@ -38,8 +38,7 @@ Personal guide to get a general sense of numbers and sizes.
 ## Electricity (consumption)
 - Iphone charge (1 charge): 6Wh
 - Desktop computer (hour): 200Wh
-- Studio apartment (month): 10kWh
-- House (month): 16kWh
+- House (month): 270kWh
 
 ## Companies (Revenue / Margin / # of employees / valuation)
 - Apple: 367 billion / 25% / 154,000 / 3 trillion

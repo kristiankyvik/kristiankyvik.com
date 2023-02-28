@@ -23,7 +23,9 @@
 	{{$p = $p.ByTitle}}
 	{{end}}
 	{{$paginator := .Paginate $p}}
-
+	
+	===========================
+	<br/><br/>
 	<!--list-->
 	<section class="article-list">
 		<div id="post-content">
@@ -47,6 +49,8 @@
 		</div>
 		{{end}}
 	</section>
+	===========================
+
 
 	<!--pagination-->
 	{{template "_internal/pagination.html" .}}

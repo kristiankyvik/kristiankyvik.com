@@ -1,8 +1,7 @@
 ---
 title: "Words and expressions that could come handy (list)"
 date: 2022-07-24T11:57:19+02:00
-draft: false
-tags: ["list"]
+draft: true
 ---
 
 - run from an ivory tower
