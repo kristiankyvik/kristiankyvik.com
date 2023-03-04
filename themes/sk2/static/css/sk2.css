@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   padding: 1rem;
   max-width: 45rem;
-  color: #212529;
+/*  color: #212529;*/
 }
 
 @media (prefers-color-scheme: dark) {
