@@ -8,6 +8,8 @@ body {
   max-width: 920px;
   margin: 0 auto;
   padding: 1rem;
+  max-width: 45rem;
+  color: #212529;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -101,7 +103,7 @@ toc ul ul {
 }
 
 .article-list .article {
-    margin-bottom: 1rem;
+    margin-bottom: 8px;
 }
 
 .article-list .date {

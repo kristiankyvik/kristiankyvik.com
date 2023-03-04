@@ -24,8 +24,9 @@
 	{{end}}
 	{{$paginator := .Paginate $p}}
 	
-	===========================
-	<br/><br/>
+	<br>
+	<hr>
+	<br>
 	<!--list-->
 	<section class="article-list">
 		<div id="post-content">
@@ -33,24 +34,25 @@
 		</div>
 		{{range $paginator.Pages}}
 		  <div class="article">
-			  {{- $pubdate := .PublishDate.Format "Jan 2, 2006" }}
+			  {{- $pubdate := .PublishDate.Format "2006-01-02" }}
 			  <span class="date">
-			      {{ $pubdate }}
+			      {{ $pubdate }} — <a href="{{.RelPermalink}}">{{.Title}}</a>
 
 			  <!-- Last Updated Date -->
-			  {{- if .Lastmod }}
+<!-- 			  {{- if .Lastmod }}
 			      {{- $lastmod := .Lastmod.Format "Jan 2, 2006" }}
 			      {{- if ne $lastmod $pubdate }}
 			              (Updated: {{ $lastmod }})
 			      {{- end }}
-			  {{- end }}
+			  {{- end }} -->
 			  </span>
-			  <a href="{{.RelPermalink}}">{{.Title}}</a>
+			  
 		</div>
 		{{end}}
 	</section>
-	===========================
-
+	<br>
+	<hr>
+	<br>
 
 	<!--pagination-->
 	{{template "_internal/pagination.html" .}}
