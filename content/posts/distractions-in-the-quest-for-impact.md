@@ -11,5 +11,3 @@ Some of the symptoms are:
 - Teams worry more about having "enough things to work on" versus ensuring they are "working on the right thing"
 - There is a over-fixation on the optics around initiatives and feature launches are prematurely judged as successes
 - Many more...
-
-I wonder why it's so easy to fall into this trap. I also wonder how some can avoid this pitfall. More on this later.
