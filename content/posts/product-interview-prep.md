@@ -25,7 +25,7 @@ Tell them what you think, give benchmarks and signposts, try to walk the intervi
 Use the following questions: 
 - Am I on the right track?
 - I decided not to touch a specific point. I could go into here, please let me know if I should go to more detail. 
-- I realise that the direction I wanted to go is not the answer I want to continue for X and Y.Therefore I'd like to take a moment to re-consider and think about a new direction.
+- I realise that the direction I wanted to go is not the answer I want to continue for X and Y. Therefore I'd like to take a moment to re-consider and think about a new direction.
 #### 7 - Summary: 
 Summarise and add caveats:
 - Qualitative tradeoffs - some pathological second order effects.
