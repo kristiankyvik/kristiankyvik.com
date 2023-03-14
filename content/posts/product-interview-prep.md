@@ -1,5 +1,5 @@
 ---
-title: "The structure of a good PM interview answers"
+title: "The structure of a good PM interview answer"
 date: 2023-03-13T23:11:46+01:00
 draft: false
 ---
