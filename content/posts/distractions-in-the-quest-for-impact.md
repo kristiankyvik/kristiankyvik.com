@@ -1,7 +1,7 @@
 ---
 title: "The many distractions in the quest for impact"
 date: 2023-03-12T23:11:46+01:00
-draft: false
+draft: true
 ---
 
 It is surprisingly easy to get distracted in the quest for impact. The beginners mindset one has the first weeks after starting a new role vanishes exceptionally quickly. It does not take very long before you you catch yourself optimising for the wrong thing. Or worst, not optimising for anything at all. 

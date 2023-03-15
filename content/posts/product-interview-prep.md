@@ -1,5 +1,5 @@
 ---
-title: "The structure of a good PM interview answer"
+title: "The structure of a good answer (PM prep #1)"
 date: 2023-03-13T23:11:46+01:00
 draft: false
 ---
@@ -34,9 +34,8 @@ Summarise and add caveats:
 
 ## PM interview dimensions
 These are the dimensions companies often evaluate PMs on. I will be covering each of these topics in the next posts.
-- Career Narrative
+- [[product-estimation-questions|Estimation questions]]
 - Behavioural
-- Estimation
 - Analytical
 - Execution
 - Product strategy
