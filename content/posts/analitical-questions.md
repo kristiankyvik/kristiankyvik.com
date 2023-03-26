@@ -1,5 +1,5 @@
 ---
-title: "Estimation questions tips and tricks (PM prep #3)"
+title: "Analytical questions (PM prep #3)"
 date: 2023-03-26T23:12:15+02:00
 draft: false
 ---
