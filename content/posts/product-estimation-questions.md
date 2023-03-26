@@ -1,5 +1,5 @@
 ---
-title: "Answering estimation questions (PM prep #2)"
+title: "Estimation questions (PM prep #2)"
 date: 2023-03-15T21:12:46+01:00
 draft: false
 ---
