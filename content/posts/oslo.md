@@ -4,7 +4,9 @@ date: 2023-04-06T09:42:15+02:00
 draft: false
 ---
 
-A collection of tips for people visiting Oslo.
+A collection of tips for people visiting Oslo. [^1]
+
+[^1]: Thanks Ana for all the suggestions!
 
 Drinks
 - Andre til Høyre
