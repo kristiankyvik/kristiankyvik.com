@@ -64,3 +64,8 @@ Personal guide to get a general sense of numbers and sizes.
 - Google G Suite (March 2020): 2 billion+ monthly active users
 - Uber (Jun 2021): ~1 million drivers in the US
 - Twitter (Q1 2018): 192 million daily active users
+
+## General sense of demographics
+- EU population per age (0-20, 20-40, 40-60, 60-80): 25%
+- EU population per class (lower-middle-upper): 20%-70%-10%
+- Number of households: population / population per household 
