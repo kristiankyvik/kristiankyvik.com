@@ -1,6 +1,6 @@
 baseURL = 'http://kristiankyvik.com/'
 languageCode = 'en-us'
-title = "kristian kyvik's posts"
+title = "kristiankyvik.com"
 theme = "sk2"
 enableGitInfo = true
 

@@ -14,7 +14,7 @@ I decided to read a bunch of "life advice" threads from hacker news which I summ
 - Some fun activities include lifting, cyclying, surf, dancing...
 - Do stretch / pick up yoga
 - Fight the urge of becoming complacent - learn and try things personally and professionally
-- Set strict workhours - stress will greatly impact you mental and pysical health, it is rarely worth it
+- Set strict workhours - stress will greatly impact you mental and physical health, it is rarely worth it
 - Have clear goals for yourself every month, year and decade
 - Minimize distractions - it is hard to overstate how important this is an how bad most people are at it
 - Conciously work to regret more things
