@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
+html {
+  font-family: 'Merriweather', serif;
+  min-height: 100%;
+  height: 100%;
+}
+
+.navbar {
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.navbar a {
+  margin-right: 1.5rem;
+  text-decoration: none;
+  color: #2d3748;
+  font-size: 1rem;
+}
+
+.navbar a:hover {
+  color: #1a365d;
+}
+
+
+body {
+  font-family: 'Merriweather', serif;
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 45rem;
+  min-height: 100%;
+  height: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  html { background: #1c1c1c; color: white; }
+  a { color: #6bf; }
+  a:visited { color: #f8f; }
+  a:active { color: red; }
+  h1 { color: #e2e8f0; }
+  h1 small { color: #a0aec0; }
+  h2 { color: #cbd5e0; }
+  .navbar { border-bottom-color: #4a5568; }
+  .navbar a { color: #e2e8f0; }
+  .navbar a:hover { color: #cbd5e0; }
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.no-dot {
+  list-style-type: none;
+}
+
+header a,
+header h1,
+header h2,
+header h3 {
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+
+.flex-right {
+  display: flex;
+  margin-left: auto;
+  vertical-align: baseline;
+}
+
+.pagination li,
+header nav li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.subtitle {
+  margin-left: 5px;
+}
+
+.main,
+header,
+footer {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.pad-l-5px {
+  padding-left: 5px;
+}
+
+.pad-r-5px {
+  padding-right: 5px;
+}
+
+/* toc */
+
+.toc-box {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+toc {
+  display: none;
+}
+
+toc li {
+  list-style-type: none;
+}
+
+toc ul {
+  margin-left: 0px;
+  padding-left: 0;
+}
+
+toc ul ul {
+  margin-left: 0px;
+  padding-left: 15px;
+}
+
+.article-list {
+    flex-grow: 1;
+}
+
+.article-list .article {
+    margin-bottom: 8px;
+}
+
+.article-list .date {
+  display: block;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 780px;
+  line-height: 1.7;
+  font-size: 1.1rem;
+  color: #2d3748;
+}
+
+article p {
+  margin-bottom: 1.5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  article { color: #e2e8f0; }
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #1a365d;
+}
+
+h1 small {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    margin-top: 0.2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    line-height: 1.3;
+}

@@ -4,7 +4,7 @@ date: 2022-07-24T14:55:43+02:00
 draft: false
 ---      
 
-## Populations (city)
+#### Populations (city)
 - Tokyo: 37m
 - Dehli: 29m
 - Shanghai: 26m
@@ -14,7 +14,7 @@ draft: false
 - Paris: 9m
 - Barcelona: 1.6m
 
-## Populations (country)
+### Populations (country)
  - China: 1.44b
  - India: 1.38b
  - USA: 331m
@@ -23,7 +23,7 @@ draft: false
  - UK: 67m
  - Spain: 47m
 
-## Timeframes
+### Timeframes
 - Big Bang: 13.8b
 - Earth: 4.5b
 - Prokaryotes: 3.7b
@@ -33,13 +33,13 @@ draft: false
 - Human: 80k
 - Civilisation: 6k
 
-## Electricity (consumption)
+### Electricity (consumption)
 - Iphone charge (1 charge): 6Wh
 - Desktop computer (hour): 200Wh
 - Apartment in Oslo (month): 100kWh to 980kWh
 - Apartment in Oslo (year): 6000kWh
 
-## Companies (Revenue / Margin / # of employees / valuation)
+### Companies (Revenue / Margin / # of employees / valuation)
 - Apple: 367 billion / 25% / 154,000 / 3 trillion
 - Shell / 261 billion / 7% / 86,000 / 212 million
 - Tesla / 53 billion / 27% / 10,000 / 828 billion
@@ -48,7 +48,7 @@ draft: false
 - Google / 256 billion / 26% / 150k / 1.4 trillion
 - Otovo / 60 million / ?% / ? / ?
 
-## General sense of product / tech metrics 
+### General sense of product / tech metrics 
 - Amazon S3 Standard cost: $0.023 / GB / month
 - Average file size for a 90-min 720p movie: roughly 3.5GB
 - Average file size for a smartphone camera picture: roughly 3-5 MB
@@ -58,20 +58,18 @@ draft: false
 - Cost of iPhone 12 Pro: $999
 - Cost of Google Pixel 5: $699
 
-## General sense of user populations
+### General sense of user populations
 - Netflix (Q2 2021): 209 million subscribers
 - Google G Suite (March 2020): 2 billion+ monthly active users
 - Uber (Jun 2021): ~1 million drivers in the US
 - Twitter (Q1 2018): 192 million daily active users
 
-## General sense of demographics
+### General sense of demographics
 - EU population per age (0-20, 20-40, 40-60, 60-80): 25%
 - EU population per class (lower-middle-upper): 20%-70%-10%
 - Number of households: population / population per household 
-## General sense of households
 
-
-##  General sense of heights
+###  General sense of heights
 - Planes: 8k-11k meters
 - Everest: 8849 m
 - Burj Khalifa: 828m

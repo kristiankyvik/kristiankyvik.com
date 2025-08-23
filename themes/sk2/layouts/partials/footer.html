@@ -1,16 +1,7 @@
-<footer class="flex">
-	{{if site.Copyright}}
-		<div class="pad-r-5px">{{site.Copyright}}</div>
-	{{else}}
-		<div class="pad-r-5px">
-		©
-		{{with site.Params.startdate}}
-			{{dateFormat "2006" .}}-
-		{{- end}}
-		{{- now.Format "2006"}} {{site.Title}};
-		</div>
-	{{end}}
-	all rights reserved.
+<footer class="site-footer">
+	<div class="footer-content">
+		© {{now.Format "2006"}} kristian kyvik. All rights reserved.
+	</div>
 </footer>
 
 <!--js-->

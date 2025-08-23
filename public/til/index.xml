@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIL on kristian kyvik</title>
+    <link>http://localhost:1313/til/</link>
+    <description>Recent content in TIL on kristian kyvik</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 15:20:20 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>work - take ownership</title>
+      <link>http://localhost:1313/til/til-1/</link>
+      <pubDate>Fri, 12 May 2023 18:50:56 +0200</pubDate>
+      <guid>http://localhost:1313/til/til-1/</guid>
+      <description>&lt;p&gt;In order to get recognised and advanced you need to show you can step up and take ownership over areas of responsibility that go beyond your role.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

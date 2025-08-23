@@ -2,12 +2,13 @@
 <div class="main">
 
 	<!--_index.md-->
-	{{if not .IsHome}}
-<!-- 	{{with .Title}}
+	{{if .IsHome}}
+	{{with .Content}}
 	<div>
-		<heading>{{.}}</heading>
+		<article>{{.}}</article>
 	</div>
-	{{end}} -->
+	{{end}}
+	{{else}}
 	{{with .Content}}
 	<div>
 		<article>{{.}}</article>
@@ -18,10 +19,12 @@
 	<!--$paginator-->
 	{{$p := .Pages}}
 	{{if .IsHome}}
-	{{$p = where site.RegularPages "Type" "posts"}}
+	<!-- Don't show posts list on homepage -->
 	{{else if eq .Kind "taxonomy"}}
 	{{$p = $p.ByTitle}}
 	{{end}}
+	
+	{{if not .IsHome}}
 	{{$paginator := .Paginate $p}}
 	
 	<!-- <br>
@@ -56,5 +59,6 @@
  -->
 	<!--pagination-->
 	{{template "_internal/pagination.html" .}}
+	{{end}}
 </div>
 {{end}}
