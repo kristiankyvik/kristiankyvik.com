@@ -168,6 +168,13 @@ article p {
   margin-bottom: 1.5rem;
 }
 
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 @media (prefers-color-scheme: dark) {
   article { color: #e2e8f0; }
 }
