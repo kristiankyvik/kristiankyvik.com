@@ -170,9 +170,12 @@ article p {
 
 article img {
   max-width: 100%;
+  max-height: 60vh;
+  width: auto;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: 2rem auto;
+  object-fit: contain;
 }
 
 @media (prefers-color-scheme: dark) {
