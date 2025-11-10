@@ -63,7 +63,8 @@ a:hover {
   h3 { color: #cbd5e0; }
   .navbar a { color: #e2e8f0; }
   .navbar a:hover { color: #cbd5e0; }
-  .footer-content { color: #718096; }
+  .site-footer { background-color: #ff1493; }
+  .footer-content { color: #ffffff; }
 }
 
 .flex {
@@ -234,10 +235,12 @@ h3 {
 .site-footer {
     margin-top: 2rem;
     padding-top: 1rem;
+    background-color: #ff69b4;
+    padding: 1rem;
 }
 
 .footer-content {
     text-align: right;
     font-size: 0.9rem;
-    color: #718096;
+    color: #ffffff;
 }
